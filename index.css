@@ -298,13 +298,13 @@ nav {
 .research-list li {
     position: relative;
     padding: 20px 24px 20px 60px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     background: var(--gradient-card);
     border-radius: 16px;
     border-left: 4px solid var(--primary-color);
     border: 1px solid var(--border-color);
     transition: all 0.3s ease;
-    font-size: 13px; /* Reduced from 17px */
+    font-size: 13px;
     line-height: 1.7;
 }
 
